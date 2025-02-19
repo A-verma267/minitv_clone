@@ -1,0 +1,19 @@
+.c-white{
+    color: white;
+}
+.d-flex{
+    display: flex;
+    
+}
+.j-space-between{
+    justify-content: space-between;
+}
+.items-center{
+    align-items: center;
+}
+.c-active{
+    color: rgb(207 53 88);
+}
+.c-pointer{
+    cursor: pointer;
+}
